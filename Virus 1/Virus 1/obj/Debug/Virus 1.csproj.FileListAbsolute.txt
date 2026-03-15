@@ -1,0 +1,7 @@
+D:\D\softwares\C#\Virus 1\Virus 1\bin\Debug\Virus 1.exe.config
+D:\D\softwares\C#\Virus 1\Virus 1\bin\Debug\Virus 1.exe
+D:\D\softwares\C#\Virus 1\Virus 1\bin\Debug\Virus 1.pdb
+D:\D\softwares\C#\Virus 1\Virus 1\obj\Debug\Virus 1.csproj.AssemblyReference.cache
+D:\D\softwares\C#\Virus 1\Virus 1\obj\Debug\Virus 1.csproj.CoreCompileInputs.cache
+D:\D\softwares\C#\Virus 1\Virus 1\obj\Debug\Virus 1.exe
+D:\D\softwares\C#\Virus 1\Virus 1\obj\Debug\Virus 1.pdb
